@@ -18,7 +18,7 @@ public class AppTest {
 
     @Test
     public void testFoo() {
-
+        System.out.println("打印结果");
     }
 
 }
