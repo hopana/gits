@@ -13,6 +13,7 @@ public class App {
     }
 
     public void sayHello() {
+        System.out.println("before...");
         System.out.println("hello world!");
     }
 }
