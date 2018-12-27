@@ -11,4 +11,8 @@ public class App {
     public void test() {
         System.out.println("这是一个测试类");
     }
+
+    public void sayHello() {
+        System.out.println("hello world!");
+    }
 }
