@@ -12,4 +12,8 @@ public class Feature2 {
         System.out.println("feature branch add feature 2");
     }
 
+    public void fixFeature2() {
+        System.out.println("feature branch fix feature 2");
+    }
+
 }
