@@ -12,4 +12,8 @@ public class NewFeature {
         System.out.println("add newFeature by feature branch");
     }
 
+    public void testNewFeature() {
+        System.out.println("test newFeature add by feature branch");
+    }
+
 }
