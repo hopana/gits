@@ -12,4 +12,8 @@ public class Work {
         System.out.println("this is the mian work add by dev branch");
     }
 
+    public void doSomeWork() {
+        System.out.println("dev branch do some work...");
+    }
+
 }
