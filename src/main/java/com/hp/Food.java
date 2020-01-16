@@ -12,6 +12,10 @@ public class Food {
         System.out.println("beef...");
     }
 
+    public void prepareFood() {
+        System.out.println("prepare a steak...");
+    }
+
     public void cookFood() {
         System.out.println("cook beef...");
     }
