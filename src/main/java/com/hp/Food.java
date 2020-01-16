@@ -12,4 +12,8 @@ public class Food {
         System.out.println("beef...");
     }
 
+    public void cookFood() {
+        System.out.println("cook beef...");
+    }
+
 }
