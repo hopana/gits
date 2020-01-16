@@ -24,4 +24,8 @@ public class Test {
         System.out.println("drink water...");
     }
 
+    public void sing() {
+        System.out.println("sing a song when happy...");
+    }
+
 }
