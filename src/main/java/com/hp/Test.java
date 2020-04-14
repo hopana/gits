@@ -12,4 +12,8 @@ public class Test {
         System.out.println("eat food...");
     }
 
+    public void buy() {
+        System.out.println("buy some food...");
+    }
+
 }
