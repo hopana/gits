@@ -18,4 +18,9 @@ public class Apple {
         System.out.println("iphone 5 is not a good smart phone!");
     }
 
+    // to test rebase
+    public void earPods() {
+        System.out.println("EarPods is good earphones!");
+    }
+
 }
