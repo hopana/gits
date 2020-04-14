@@ -21,4 +21,9 @@ public class Food {
         System.out.println("wash food and clean it....");
     }
 
+    // to test merge
+    public void cookFood() {
+        System.out.println("cook a steak...");
+    }
+
 }
