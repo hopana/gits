@@ -16,4 +16,9 @@ public class Test {
         System.out.println("buy some food...");
     }
 
+    // to test merge
+    public void test() {
+        System.out.println("and a test ...");
+    }
+
 }
