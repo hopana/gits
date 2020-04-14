@@ -16,4 +16,9 @@ public class Food {
         System.out.println("pick up some food....");
     }
 
+    // to test merge
+    public void washFood() {
+        System.out.println("wash food and clean it....");
+    }
+
 }
