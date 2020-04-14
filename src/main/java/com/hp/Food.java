@@ -12,4 +12,8 @@ public class Food {
         System.out.println("beef...");
     }
 
+    public void pickUp() {
+        System.out.println("pick up some food....");
+    }
+
 }
