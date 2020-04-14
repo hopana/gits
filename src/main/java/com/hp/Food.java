@@ -16,4 +16,9 @@ public class Food {
         System.out.println("pick up some food....");
     }
 
+    // to test merge
+    public void cookFood() {
+        System.out.println("cook a steak...");
+    }
+
 }
